@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e81e42dd-a611-4d8e-8651-aa4eaaa14d3d/deploy-status)](https://app.netlify.com/sites/curious-jelly-f34034/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e81e42dd-a611-4d8e-8651-aa4eaaa14d3d/deploy-status)](https://app.netlify.com/sites/curious-jelly-f34034/deploys?branch=main)
 
 # Astro Starter Kit: Minimal
 
